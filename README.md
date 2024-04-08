@@ -189,7 +189,7 @@ Navigate through search results conveniently with our date navigation feature:
    - **Success:** After successful payment, you'll receive a confirmation message indicating that your payment was successful.
    - **Failure:** If something goes wrong with the payment process, you'll receive a notification that the payment was unsuccessful.
 
-![Rail Management](/images/otp-ssl.png)
+![Rail Management](/images/opt-ssl.png)
 
 ### Success
 
